@@ -67,12 +67,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/x64sec/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/x64sec/x64sec/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/x64sec/x64sec/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/x64sec/count.svg?"  />
+</div>
 
 ###
