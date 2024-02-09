@@ -67,7 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/x64sec/x64sec/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/x64sec/x64sec/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
